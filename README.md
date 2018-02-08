@@ -28,7 +28,7 @@ A: ...
 
 Q: Is ChaosQuest a "hardcore" pack?
 
-A: You're more than encouraged to play it in hardcore mode if you like, but it's nowhere near as difficult as Blood 'N Bones or Madpack 2. It's an adventure, like the Final Fantasy games.
+A: It's a great pack to play in hardcore modee, but it's nowhere near as difficult as Blood 'N Bones or Madpack 2. It's an adventure, like the Final Fantasy games.
 
 
 Q: Lycanites mobs are scary!
