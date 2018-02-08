@@ -43,7 +43,7 @@ A: Umm, that's a matter of opinion, but you only have to make a generator, battb
 
 Q: I'm a bigshot Youtuber/Streamer. I'm going to play your pack with mob greifing off and keep inventory on. That's cool, right?
 
-A: It's Minecraft you can do whatever is permitted by the EULA, but ChaosQuest wasn't designed to be played like that. Would it really be honest to say you were playing the pack if you made changes like that to it? I mean, if you wanted to be honest...
+A: It's Minecraft you can do whatever is permitted by the EULA, but ChaosQuest wasn't designed to be played like that. Would it really be honest to say you're playing the pack, if you made changes like that? I mean, if you want to be honest...
 
 
 Q: You should add Tinkers' Construct!
