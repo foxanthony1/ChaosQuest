@@ -1,7 +1,10 @@
 # ChaosQuest
 It's an adventure!
 
-The world of Lore is threatened! The delicate balance between Order and Chaos has been disrupted. At night hordes of monsters roam the land. Some are even adapting to the daylight.
+The world of Lore is threatened! The delicate balance between Order and Chaos has been disrupted. At night a fell darkness befalls the land and hordes of monsters appear seeking death and destruction.
+
+Some are even adapting to the daylight...
+
 A Champion is needed. Will you step up to the challenge, master the Chaos and defeat the Chaos Dragon?
 
                                       -------------------------------------------------
