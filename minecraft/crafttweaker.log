@@ -1,0 +1,158 @@
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Armor.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: enchants.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Garnet to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Topaz to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Amber to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Heliodor to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Peridot to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Beryl to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Indicolite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Aquamarine to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Sapphire to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Iolite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Amethyst to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Agate to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Morganite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Onyx to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Opal to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Carnelian to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Spinel to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Citrine to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Jasper to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Golden Beryl to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Moldavite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Malachite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Turquoise to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Moonstone to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Blue Topaz to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Tanzanite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Violet Sapphire to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Lepidolite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Ametrine to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Black Diamond to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Alexandrite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Pyrope to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Coral to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Sunstone to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Cat's Eye to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Zircon to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Jade to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Chrysoprase to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Apatite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Fluorite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Kyanite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Sodalite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Ammolite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Kunzite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Rose Quartz to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Tektite to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding Pearl to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] Adding item.silentgems:Gem48.name to ore dictionary entry silentsGems
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Healing.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEI.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Misc.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][CLIENT][ERROR] recipes.zs:5: Could not resolve <thermalfoundation : material : 133>
+[INITIALIZATION][CLIENT][ERROR] recipes.zs:5: Could not resolve <thermalfoundation : material : 133>
+[INITIALIZATION][CLIENT][ERROR] recipes.zs:5: Could not resolve <thermalfoundation : material : 133>
+[INITIALIZATION][CLIENT][ERROR] recipes.zs:5: Could not resolve <thermalfoundation : material : 133>
+[INITIALIZATION][CLIENT][ERROR] recipes.zs:7: Could not resolve <thermalfoundation : material : 771>
+[INITIALIZATION][CLIENT][ERROR] recipes.zs:7: Could not resolve <thermalfoundation : material : 771>
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Tools.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Weapon.zs}
+[POSTINITIALIZATION][CLIENT][INFO] 80 really removed
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for White Rune with name ct_shaped-2078928351
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Orange Rune with name ct_shaped1160439256
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magenta Rune with name ct_shaped-342722599
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Blue Rune with name ct_shaped-1845884454
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Yellow Rune with name ct_shaped945920987
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lime Rune with name ct_shaped-557240868
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pink Rune with name ct_shaped-491485219
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Gray Rune with name ct_shaped-1959215393
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cyan Rune with name ct_shaped-545596832
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Purple Rune with name ct_shaped-381299514
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blue Rune with name ct_shaped907008327
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Brown Rune with name ct_shaped547664584
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Green Rune with name ct_shaped-435411127
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Rune with name ct_shaped978207434
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Black Rune with name ct_shaped-1099870133
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token (Blank) with name ct_shaped-1581590172
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped888674801
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1855171104
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped2066168331
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-1327004441
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-843374596
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-1294214597
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped328629931
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped989716947
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-877370003
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-1284034697
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-1820024293
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-1782964222
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped705721939
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1954242533
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-805530856
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1734709060
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped478110756
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped34764745
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1273537969
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped2066168332
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped100107440
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1273864442
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-95068392
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-190467535
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped860910538
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped502724488
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1328966864
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1181469323
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-368815074
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped346495095
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1147979923
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1528970349
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1501565056
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped130617777
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-2037327621
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1390854877
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-584013410
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped-555154724
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchantment Token with name ct_shaped1611274069
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Healing Salve with name ct_shaped1424862690
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Dragon Egg with name ct_shaped1365865037
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fluffy Puff with name ct_shapeless-624255730
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bag Storage with name ct_shaped1210313358
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bag Opener with name ct_shaped476055511
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Loot Recycler with name ct_shaped-166358421
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Philosopher's Stone with name ct_shaped1497819873
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rare Rune with name ct_shaped-1185221810
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Uncommon Rune with name ct_shaped-1382089989
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Common Rune with name ct_shaped-831808729
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Furnace with name ct_shaped1568359373
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:stone_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_pickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_shovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_axe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_hoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:leather_helmet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:leather_chestplate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:leather_leggings>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:leather_boots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_helmet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_chestplate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_leggings>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:iron_boots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_helmet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_chestplate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_leggings>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_boots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:wooden_sword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <minecraft:diamond_sword>

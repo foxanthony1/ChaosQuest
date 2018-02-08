@@ -39,11 +39,11 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "junglemobs.vespid",
+      "mobId": "junglemobs:vespid",
       "weight": 8
     },
     {
-      "mobId": "junglemobs.vespidqueen",
+      "mobId": "junglemobs:vespidqueen",
       "weight": 1
     }
   ]

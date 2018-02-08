@@ -37,7 +37,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs.cinder",
+      "mobId": "elementalmobs:cinder",
       "weight": 8
     }
   ]

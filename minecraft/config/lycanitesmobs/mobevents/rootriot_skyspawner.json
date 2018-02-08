@@ -39,7 +39,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs.spriggan",
+      "mobId": "elementalmobs:spriggan",
       "weight": 8
     }
   ]

@@ -2,13 +2,9 @@
   "name": "order",
   "loadDefault": true,
   "buffs": [
-    "minecraft:strength"
+    "minecraft:absorption"
   ],
   "debuffs": [
-    "minecraft:wither"
-  ],
-  "components": [
-    "air",
-    "chaos"
+    "minecraft:weakness"
   ]
 }

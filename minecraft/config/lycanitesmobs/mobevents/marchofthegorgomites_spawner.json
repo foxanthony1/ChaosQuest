@@ -39,7 +39,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "desertmobs.gorgomite",
+      "mobId": "desertmobs:gorgomite",
       "weight": 8
     }
   ]

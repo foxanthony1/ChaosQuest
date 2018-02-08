@@ -160,9 +160,11 @@
         "rustic:log/1",
         "techreborn:rubber_leaves",
         "techreborn:rubber_log",
+        "twilightforest:dark_leaves",
         "twilightforest:magic_leaves",
         "twilightforest:magic_log",
         "twilightforest:twilight_leaves",
+        "twilightforest:twilight_leaves_3",
         "twilightforest:twilight_log"
       ]
     },
@@ -528,8 +530,10 @@
         "rustic:leaves/9",
         "rustic:leaves_apple/0",
         "techreborn:rubber_leaves",
+        "twilightforest:dark_leaves",
         "twilightforest:magic_leaves",
-        "twilightforest:twilight_leaves"
+        "twilightforest:twilight_leaves",
+        "twilightforest:twilight_leaves_3"
       ]
     },
     "shovel": {

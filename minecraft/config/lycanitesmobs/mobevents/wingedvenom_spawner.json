@@ -39,7 +39,7 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "swampmobs.remobra",
+      "mobId": "swampmobs:remobra",
       "weight": 8
     }
   ]

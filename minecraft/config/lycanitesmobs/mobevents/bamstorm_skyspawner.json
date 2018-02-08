@@ -39,15 +39,19 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "elementalmobs.zephyr",
+      "mobId": "elementalmobs:djinn",
       "weight": 8
     },
     {
-      "mobId": "elementalmobs.tremor",
+      "mobId": "elementalmobs:zephyr",
+      "weight": 8
+    },
+    {
+      "mobId": "elementalmobs:tremor",
       "weight": 1
     },
     {
-      "mobId": "desertmobs.manticore",
+      "mobId": "desertmobs:manticore",
       "weight": 8
     }
   ]

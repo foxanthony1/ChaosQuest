@@ -39,11 +39,11 @@
   ],
   "mobSpawns": [
     {
-      "mobId": "desertmobs.clink",
+      "mobId": "desertmobs:clink",
       "weight": 8
     },
     {
-      "mobId": "plainsmobs.quillbeast",
+      "mobId": "plainsmobs:quillbeast",
       "weight": 8
     }
   ]
