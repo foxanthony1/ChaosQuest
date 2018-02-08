@@ -1,0 +1,19 @@
+//Set icon item
+setIcon("minecraft:iron_sword")
+
+//Set title String
+setTitle("Witch kill")
+
+setHidden(true)
+
+//Set description String
+setDescription("Earning a curse.")
+
+//Set the parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+setParent("triumph:cqadv/root")
+
+setRewardFunction("triumph:witchCurse")
+
+criteria = addCriteria("killed_witch", "minecraft:player_killed_entity")
+
+criteria.setEntityType("minecraft:witch")

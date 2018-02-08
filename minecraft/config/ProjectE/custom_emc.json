@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 9984
+    },
+    {
+      "item": "projecte:item.pe_fuel|2",
+      "emc": 8192
+    },
+    {
+      "item": "projecte:item.pe_fuel|0",
+      "emc": 512
+    },
+    {
+      "item": "projecte:item.pe_fuel|1",
+      "emc": 2048
+    },
+    {
+      "item": "minecraft:lava_bucket|0",
+      "emc": 832
+    }
+  ]
+}

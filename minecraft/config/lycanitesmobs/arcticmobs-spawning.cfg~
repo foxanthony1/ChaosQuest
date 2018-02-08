@@ -1,0 +1,203 @@
+# Configuration file
+
+"area limits" {
+    I:"Arix Area Limit"=3
+    I:"Frostweaver Area Limit"=5
+    I:"Maug Area Limit"=5
+    I:"Reiver Area Limit"=3
+    I:"Serpix Area Limit"=1
+    I:"Wendigo Area Limit"=1
+    I:"Yeti Area Limit"=5
+}
+
+
+"block costs" {
+    I:"Arix Block Cost"=16
+    I:"Frostweaver Block Cost"=1
+    I:"Maug Block Cost"=1
+    I:"Reiver Block Cost"=8
+    I:"Serpix Block Cost"=32
+    I:"Wendigo Block Cost"=16
+    I:"Yeti Block Cost"=1
+}
+
+
+despawning {
+    B:"Arix Forced Despawning"=false
+    B:"Arix Natural Despawning"=true
+    B:"Frostweaver Forced Despawning"=false
+    B:"Frostweaver Natural Despawning"=true
+    B:"Maug Forced Despawning"=false
+    B:"Maug Natural Despawning"=true
+    B:"Reiver Forced Despawning"=false
+    B:"Reiver Natural Despawning"=true
+    B:"Serpix Forced Despawning"=false
+    B:"Serpix Natural Despawning"=true
+    B:"Wendigo Forced Despawning"=false
+    B:"Wendigo Natural Despawning"=true
+    B:"Yeti Forced Despawning"=false
+    B:"Yeti Natural Despawning"=false
+}
+
+
+"disable subspecies spawns" {
+    B:"Arix Subspecies Spawning Disabled"=false
+    B:"Frostweaver Subspecies Spawning Disabled"=false
+    B:"Maug Subspecies Spawning Disabled"=false
+    B:"Reiver Subspecies Spawning Disabled"=false
+    B:"Serpix Subspecies Spawning Disabled"=false
+    B:"Wendigo Subspecies Spawning Disabled"=true
+    B:"Yeti Subspecies Spawning Disabled"=false
+}
+
+
+"dungeon weights" {
+    D:"Arix Dungeon Weight"=200.0
+    D:"Frostweaver Dungeon Weight"=250.0
+    D:"Maug Dungeon Weight"=100.0
+    D:"Reiver Dungeon Weight"=200.0
+    D:"Serpix Dungeon Weight"=100.0
+    D:"Wendigo Dungeon Weight"=100.0
+    D:"Yeti Dungeon Weight"=0.0
+}
+
+
+"enabled spawns" {
+    B:"Arix Spawning Enabled"=false
+    B:"Frostweaver Spawning Enabled"=false
+    B:"Maug Spawning Enabled"=false
+    B:"Reiver Spawning Enabled"=false
+    B:"Serpix Spawning Enabled"=false
+    B:"Wendigo Spawning Enabled"=true
+    B:"Yeti Spawning Enabled"=false
+}
+
+
+##########################################################################################################
+# group settings
+#--------------------------------------------------------------------------------------------------------#
+# Here you can set the spawning settings for all mobs in this group that use the GROUP tag.
+##########################################################################################################
+
+"group settings" {
+    S:"Arctic Mobs Spawn Biomes"=COLD, SNOWY, CONIFEROUS, MOUNTAIN, -END
+    S:"Arctic Mobs Spawn Dimensions"=-1,1
+    B:"Arctic Mobs Spawn Dimensions Whitelist Mode"=false
+
+    # Here you can set the Dungeon Theme of this mob group. These are used by Doomlike Dungeons and might be used by other things later. Multiple entries should be comma seperated.
+    S:"Arctic Mobs Themes"=FROZEN, DUNGEON
+}
+
+
+"group sizes" {
+    I:"Arix Group Max"=3
+    I:"Arix Group Min"=1
+    I:"Frostweaver Group Max"=2
+    I:"Frostweaver Group Min"=1
+    I:"Maug Group Max"=2
+    I:"Maug Group Min"=1
+    I:"Reiver Group Max"=3
+    I:"Reiver Group Min"=1
+    I:"Serpix Group Max"=1
+    I:"Serpix Group Min"=1
+    I:"Wendigo Group Max"=1
+    I:"Wendigo Group Min"=1
+    I:"Yeti Group Max"=4
+    I:"Yeti Group Min"=1
+}
+
+
+"spawn biomes" {
+    S:"Arix Spawn Biomes"=GROUP
+    B:"Arix Spawn Ignores Biome Check"=false
+    S:"Frostweaver Spawn Biomes"=GROUP
+    B:"Frostweaver Spawn Ignores Biome Check"=false
+    S:"Maug Spawn Biomes"=GROUP
+    B:"Maug Spawn Ignores Biome Check"=false
+    S:"Reiver Spawn Biomes"=GROUP
+    B:"Reiver Spawn Ignores Biome Check"=false
+    S:"Serpix Spawn Biomes"=GROUP
+    B:"Serpix Spawn Ignores Biome Check"=false
+    S:"Wendigo Spawn Biomes"=GROUP
+    B:"Wendigo Spawn Ignores Biome Check"=false
+    S:"Yeti Spawn Biomes"=GROUP
+    B:"Yeti Spawn Ignores Biome Check"=false
+}
+
+
+"spawn chances" {
+    D:"Arix Spawn Chance"=1.0
+    D:"Frostweaver Spawn Chance"=1.0
+    D:"Maug Spawn Chance"=1.0
+    D:"Reiver Spawn Chance"=1.0
+    D:"Serpix Spawn Chance"=1.0
+    D:"Wendigo Spawn Chance"=10.0
+    D:"Yeti Spawn Chance"=1.0
+}
+
+
+"spawn conditions" {
+    B:"Arix Spawns In Dark"=true
+    B:"Arix Spawns In Light"=false
+    I:"Arix World Day Minimum"=0
+    B:"Frostweaver Spawns In Dark"=true
+    B:"Frostweaver Spawns In Light"=false
+    I:"Frostweaver World Day Minimum"=0
+    B:"Maug Spawns In Dark"=true
+    B:"Maug Spawns In Light"=false
+    I:"Maug World Day Minimum"=0
+    B:"Reiver Spawns In Dark"=true
+    B:"Reiver Spawns In Light"=false
+    I:"Reiver World Day Minimum"=0
+    B:"Serpix Spawns In Dark"=true
+    B:"Serpix Spawns In Light"=false
+    I:"Serpix World Day Minimum"=0
+    B:"Wendigo Spawns In Dark"=true
+    B:"Wendigo Spawns In Light"=true
+    I:"Wendigo World Day Minimum"=0
+    B:"Yeti Spawns In Dark"=false
+    B:"Yeti Spawns In Light"=true
+    I:"Yeti World Day Minimum"=0
+}
+
+
+"spawn dimensions" {
+    S:"Arix Spawn Dimensions"=GROUP
+    B:"Arix Spawn Dimensions Whitelist Mode"=false
+    S:"Frostweaver Spawn Dimensions"=GROUP
+    B:"Frostweaver Spawn Dimensions Whitelist Mode"=false
+    S:"Maug Spawn Dimensions"=GROUP
+    B:"Maug Spawn Dimensions Whitelist Mode"=false
+    S:"Reiver Spawn Dimensions"=GROUP
+    B:"Reiver Spawn Dimensions Whitelist Mode"=false
+    S:"Serpix Spawn Dimensions"=GROUP
+    B:"Serpix Spawn Dimensions Whitelist Mode"=false
+    S:"Wendigo Spawn Dimensions"=GROUP
+    B:"Wendigo Spawn Dimensions Whitelist Mode"=false
+    S:"Yeti Spawn Dimensions"=GROUP
+    B:"Yeti Spawn Dimensions Whitelist Mode"=false
+}
+
+
+"spawn types" {
+    S:"Arix Spawn Types"=SKY, OOZE
+    S:"Frostweaver Spawn Types"=MONSTER, BEAST
+    S:"Maug Spawn Types"=MONSTER, BEAST
+    S:"Reiver Spawn Types"=SKY
+    S:"Serpix Spawn Types"=MONSTER, BEAST, OOZE
+    S:"Wendigo Spawn Types"=MONSTER, BEAST, OOZE
+    S:"Yeti Spawn Types"=CREATURE, ANIMAL
+}
+
+
+"spawn weights" {
+    D:"Arix Spawn Weight"=8.0
+    D:"Frostweaver Spawn Weight"=10.0
+    D:"Maug Spawn Weight"=4.0
+    D:"Reiver Spawn Weight"=8.0
+    D:"Serpix Spawn Weight"=4.0
+    D:"Wendigo Spawn Weight"=8.0
+    D:"Yeti Spawn Weight"=10.0
+}
+
+

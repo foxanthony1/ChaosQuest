@@ -1,0 +1,22 @@
+//Set icon item
+setIcon("minecraft:stone")
+
+//Set title String
+setTitle("Whatcha minin' for?")
+
+//Set description String
+setDescription("You might see a few ores above ground, but there's nothing below.")
+
+//Set the parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+setParent("triumph:cqadv/root")
+
+//Adds criteria named "brokeLog" with the trigger type "triumph:player_break_block". This function returns the criteria as an object
+criteria = addCriteria("brokeStone", "triumph:player_break_block")
+
+//Sets the required block for the criteria. This is the block that needs to be broken by the player. First variable is the block name, second is the metadata and is not required.
+criteria.setBlock("minecraft:stone")
+
+setRewardFunction("triumph:get_stoned")
+
+//Sets the requirements to be any. This means that if ANY of the criteria triggers is acquired, the advancement is acquired.
+setRequirements("any")

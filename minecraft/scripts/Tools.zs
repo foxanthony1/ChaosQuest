@@ -1,0 +1,26 @@
+
+////////////////////////////////////////////////////////////////
+//Wood tools
+recipes.remove(<minecraft:wooden_shovel>);
+recipes.remove(<minecraft:wooden_pickaxe>);
+recipes.remove(<minecraft:wooden_axe>);
+recipes.remove(<minecraft:wooden_hoe>);
+////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////
+//Iron tools
+recipes.remove(<minecraft:iron_shovel>);
+recipes.remove(<minecraft:iron_pickaxe>);
+recipes.remove(<minecraft:iron_axe>);
+recipes.remove(<minecraft:iron_hoe>);
+////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////
+//Diamond tools
+recipes.remove(<minecraft:diamond_shovel>);
+recipes.remove(<minecraft:diamond_pickaxe>);
+recipes.remove(<minecraft:diamond_axe>);
+recipes.remove(<minecraft:diamond_hoe>);
+////////////////////////////////////////////////////////////////

@@ -1,0 +1,5 @@
+particle largesmoke ~ ~ ~ 0 0 0 1 16000
+
+title @a actionbar {"text":"You fool! I give you my death curse!!!", "color":"light_purple"}
+
+summon shadowmobs:phantom ~3 ~1 ~3

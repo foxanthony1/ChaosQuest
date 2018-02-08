@@ -1,0 +1,171 @@
+# Configuration file
+
+##########################################################################################################
+# custom item drops
+#--------------------------------------------------------------------------------------------------------#
+# Allows for custom items drops per mob. Format is: mod:item,metadata,chance,min,max Multiple drops should be semicolon separated and chances are in decimal format. You can also add an additional comma and then a subspecies ID to restrict that drop to a certain subspecies like so: mod:item,metadata,chance,min,max,subspecies. minecraft:wool,2,0.25,0,3 is Green Wool with a 25% drop rate and will drop 0 to 3 blocks. Be sure to use a colon for mod:item and commas for everything else in an entry. Semicolons can be used to separate multiple entries.
+##########################################################################################################
+
+"custom item drops" {
+    S:"Argus Custom Drops"=
+    S:"Cinder Custom Drops"=
+    S:"Djinn Custom Drops"=
+    S:"Geonach Custom Drops"=
+    S:"Grue Custom Drops"=
+    S:"Jengu Custom Drops"=
+    S:"Reiver Custom Drops"=
+    S:"Spectre Custom Drops"=
+    S:"Spriggan Custom Drops"=
+    S:"Tremor Custom Drops"=
+    S:"Volcan Custom Drops"=
+    S:"Wraith Custom Drops"=
+    S:"Zephyr Custom Drops"=
+}
+
+
+##########################################################################################################
+# default item drops
+#--------------------------------------------------------------------------------------------------------#
+# If false, only custom item drops are dropped.
+##########################################################################################################
+
+"default item drops" {
+    B:"Argus Default Drops"=true
+    B:"Cinder Default Drops"=true
+    B:"Djinn Default Drops"=true
+    B:"Geonach Default Drops"=true
+    B:"Grue Default Drops"=true
+    B:"Jengu Default Drops"=true
+    B:"Reiver Default Drops"=true
+    B:"Spectre Default Drops"=true
+    B:"Spriggan Default Drops"=true
+    B:"Tremor Default Drops"=true
+    B:"Volcan Default Drops"=true
+    B:"Wraith Default Drops"=true
+    B:"Zephyr Default Drops"=true
+}
+
+
+"dungeon level" {
+    I:"Argus Dungeon Level"=0
+    I:"Cinder Dungeon Level"=1
+    I:"Djinn Dungeon Level"=0
+    I:"Geonach Dungeon Level"=1
+    I:"Grue Dungeon Level"=1
+    I:"Jengu Dungeon Level"=0
+    I:"Reiver Dungeon Level"=0
+    I:"Spectre Dungeon Level"=2
+    I:"Spriggan Dungeon Level"=0
+    I:"Tremor Dungeon Level"=3
+    I:"Volcan Dungeon Level"=2
+    I:"Wraith Dungeon Level"=0
+    I:"Zephyr Dungeon Level"=1
+}
+
+
+##########################################################################################################
+# dungeon levels
+#--------------------------------------------------------------------------------------------------------#
+# The dungeon level of this mob, used by Doomlike Dungeons. -1 = Not for Dungeons, 0 = Common, 1 = Tough, 2 = Brute, 3 = Elite
+##########################################################################################################
+
+"dungeon levels" {
+}
+
+
+##########################################################################################################
+# dungeon themes
+#--------------------------------------------------------------------------------------------------------#
+# Here you can set the Dungeon Theme of each mob. These are used by Doomlike Dungeons and might be used by other things later.
+##########################################################################################################
+
+"dungeon themes" {
+    S:"Argus Themes"=SHADOW, NECRO
+    S:"Cinder Themes"=FIERY, NETHER, NECRO
+    S:"Djinn Themes"=MOUNTAIN, PARADISE, MAGICAL
+    S:"Geonach Themes"=MOUNTAIN, WASTELAND, NECRO
+    S:"Grue Themes"=SHADOW, NECRO
+    S:"Jengu Themes"=WATER, DUNGEON
+    S:"Reiver Themes"=FROZEN, DUNGEON
+    S:"Spectre Themes"=SHADOW, NECRO
+    S:"Spriggan Themes"=SHADOW, NECRO
+    S:"Tremor Themes"=MOUNTAIN, WASTELAND, NECRO
+    S:"Volcan Themes"=FIERY, NETHER, NECRO
+    S:"Wraith Themes"=NETHER, NECRO
+    S:"Zephyr Themes"=WATER, DUNGEON
+}
+
+
+##########################################################################################################
+# enabled mobs
+#--------------------------------------------------------------------------------------------------------#
+# Here you can completely disable any mob.
+##########################################################################################################
+
+"enabled mobs" {
+    B:"Argus Enabled"=true
+    B:"Cinder Enabled"=true
+    B:"Djinn Enabled"=true
+    B:"Geonach Enabled"=true
+    B:"Grue Enabled"=true
+    B:"Jengu Enabled"=true
+    B:"Reiver Enabled"=true
+    B:"Spectre Enabled"=true
+    B:"Spriggan Enabled"=true
+    B:"Tremor Enabled"=true
+    B:"Volcan Enabled"=true
+    B:"Wraith Enabled"=true
+    B:"Zephyr Enabled"=true
+}
+
+
+##########################################################################################################
+# peaceful mob
+#--------------------------------------------------------------------------------------------------------#
+# Here you may control whether or not each mob is allowed in Peaceful Difficulty.
+##########################################################################################################
+
+"peaceful mob" {
+}
+
+
+"peaceful mobs" {
+    B:"Argus On Peaceful"=false
+    B:"Cinder On Peaceful"=false
+    B:"Djinn On Peaceful"=false
+    B:"Geonach On Peaceful"=false
+    B:"Grue On Peaceful"=false
+    B:"Jengu On Peaceful"=false
+    B:"Reiver On Peaceful"=false
+    B:"Spectre On Peaceful"=false
+    B:"Spriggan On Peaceful"=false
+    B:"Tremor On Peaceful"=false
+    B:"Volcan On Peaceful"=false
+    B:"Wraith On Peaceful"=false
+    B:"Zephyr On Peaceful"=false
+}
+
+
+##########################################################################################################
+# summoning costs
+#--------------------------------------------------------------------------------------------------------#
+# How much summoning focus each mob costs. This includes mobs that can't be summoned by the summoning staff as there might be other methods of summoning them in the future.
+##########################################################################################################
+
+"summoning costs" {
+    I:"Argus Summoning Cost"=2
+    I:"Cinder Summoning Cost"=2
+    I:"Djinn Summoning Cost"=2
+    I:"Geonach Summoning Cost"=2
+    I:"Grue Summoning Cost"=2
+    I:"Jengu Summoning Cost"=2
+    I:"Reiver Summoning Cost"=2
+    I:"Spectre Summoning Cost"=4
+    I:"Spriggan Summoning Cost"=2
+    I:"Tremor Summoning Cost"=5
+    I:"Volcan Summoning Cost"=6
+    I:"Wraith Summoning Cost"=1
+    I:"Zephyr Summoning Cost"=2
+}
+
+

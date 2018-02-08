@@ -1,0 +1,9 @@
+{
+  "inventory": {
+    "0:8": "roughtweaks:bandage",
+    "0:6": "cyclicmagic:food_step",
+    "0:0": "adhooks:web_launcher",
+    "0:7": "minecraft:carrot,8",
+    "1:0": "minecraft:leather_boots,1,0,{ench:[{lvl:4s,id:34s},{lvl:4s,id:2s}],RepairCost:1,display:{color:11546150,Name:\"Ruby Slippers\"}}"
+  }
+}

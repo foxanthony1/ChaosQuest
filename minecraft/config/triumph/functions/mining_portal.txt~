@@ -1,0 +1,3 @@
+give @p ic2:filled_tin_can 6
+
+tellraw @p ["", ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"],{"text":"Good job ","color":"gold"},{"selector":"@p","color":"lime"},{"text":", Make a paxel with high melee damage - it's the right weapon for some of the mobs you'll run into. Check out the torch launcher, auto torch and climbing gloves too!","color":"gold"}]

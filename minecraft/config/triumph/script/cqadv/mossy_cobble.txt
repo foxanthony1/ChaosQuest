@@ -1,0 +1,20 @@
+//Set the icon item
+setIcon("minecraft:mossy_cobblestone")
+
+//Set the title String
+setTitle("Portal to the mining dimension.")
+
+//Set the description String
+setDescription("Mossy cobble + emerald = Mining4Ever!")
+
+//Set the parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+setParent("triumph:cqadv/get_stoned")
+
+//Adds criteria named "crafted" with the trigger type "triumph:player_crafted_item". This function returns the criteria as an object
+criteria = addCriteria("crafted", "triumph:player_crafted_item")
+//Sets the required item for the criteria. This is the item that needs to be crafted. First variable is the item name, second is the metadata and is not required.
+criteria.setItem("minecraft:mossy_cobblestone")
+
+setRewardFunction("triumph:mining_portal")
+
+//By not setting anything about requirements here, all criteria are automatically required

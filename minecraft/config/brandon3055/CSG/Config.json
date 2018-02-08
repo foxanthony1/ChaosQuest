@@ -1,0 +1,31 @@
+{
+  "inventory": {
+    "0:11": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:35s}]}",
+    "0:30": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:1s}]}",
+    "0:32": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:0s}]}",
+    "0:34": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:34s}]}",
+    "1:0": "minecraft:leather_boots,1,0,{ench:[{lvl:4s,id:34s},{lvl:4s,id:2s}],RepairCost:1,display:{color:11546150,Name:\"Ruby Slippers\"}}",
+    "0:15": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:36s}]}",
+    "0:19": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:21s}]}",
+    "0:29": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:2s}]}",
+    "0:27": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:48s}]}",
+    "0:17": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:13s}]}",
+    "0:12": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:30s}]}",
+    "0:18": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:24s}]}",
+    "0:31": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:4s}]}",
+    "0:25": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:51s}]}",
+    "0:16": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:23s}]}",
+    "0:20": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:11s}]}",
+    "0:23": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:31s}]}",
+    "0:24": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:50s}]}",
+    "0:21": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:16s}]}",
+    "0:33": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:70s}]}",
+    "0:14": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:20s}]}",
+    "0:22": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:22s}]}",
+    "0:10": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:32s}]}",
+    "0:35": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:37s}]}",
+    "0:26": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:29s}]}",
+    "0:13": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:14s}]}",
+    "0:28": "minecraft:enchanted_book,1,0,{StoredEnchantments:[{lvl:1s,id:8s}]}"
+  }
+}

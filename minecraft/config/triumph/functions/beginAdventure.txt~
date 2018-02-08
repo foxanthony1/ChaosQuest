@@ -1,0 +1,16 @@
+give @p written_book 1 0 {pages:["[\"\",{\"text\":\"     \",\"color\":\"blue\"},{\"text\":\"Are you the\\n      Champion?\",\"color\":\"gold\"},{\"text\":\"\\n\\n\",\"color\":\"reset\"},{\"text\":\"   \",\"color\":\"gold\"},{\"text\":\"Will you undertake the Quest to master Chaos and be the Hero of our world?\",\"color\":\"black\"},{\"text\":\"\\n\\n\",\"color\":\"reset\"},{\"text\":\"[CLICK HERE IF YOU          AGREE]\",\"color\":\"dark_red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function triumph:quentin\"}},{\"text\":\"\\n\\n    Don't be a wuss.\\n       CLICK IT!!!\",\"color\":\"reset\"}]"],title:"Begin the Quest!",author:"Quentin the Quest Giver",display:{Lore:["A legally binding agreement to save the world or die trying. May not be valid in your state, country, province or universe."]}}
+
+summon minecraft:illusion_illager ~3 ~1 ~ 90 {CustomName:"Quentin the Quest Giver",CustomNameVisible:1,NoAI:1b,PersistenceRequired:1b,Glowing:1,Attributes:[{Name:"generic.movementSpeed",Base:0.2f}],Silent:1,Invulnerable:1,HandItems:[{id:"minecraft:book",tag:{display:{Name:"Begin the Quest!"}},Count:1},{}]}
+
+summon minecraft:fireworks_rocket ~4 ~2 ~ {LifeTime:10,FireworksItem:{id:"minecraft:fireworks",Count:1b,tag:{Fireworks:{Explosions:[{Type:1b,Flicker:1b,Trail:0b,Colors:[I;16733525]}]}}}}
+
+
+title @a actionbar {"text":"Get Ready!", "color":"light_purple"}
+
+title @a times 20 200 20
+
+title @a subtitle {"text":"Will you be our Champion?","color":"yellow"}
+
+title @a title {"text":@p"color":"yellow"}
+
+gamerule doWeatherCycle false

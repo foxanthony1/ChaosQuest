@@ -1,0 +1,197 @@
+{
+    "images":
+    {
+	
+		"black":
+        {
+            "image" : "mainmenu:textures/fancybg_menu.png",
+            "posX" : 65,
+            "posY" : 75,
+            "width" : 105,
+            "height" : 200,
+            "alignment" : "top_left"
+        },
+		"logo":
+        {
+            "image" : "mainmenu:textures/logo.png",
+            "posX" : 40,
+            "posY" : 0,
+            "width" : 150,
+            "height" : 80,
+            "alignment" : "top_left"
+        }
+	
+	},
+    
+    "buttons":
+    {     
+		"singleplayer":
+        {
+            "text" : "Singleplayer",
+			"normalTextColor" : 13938487,
+			"hoverTextColor" : 13938487,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 80,
+            "posY" : -80,
+            "width" : 75,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },		
+
+		"multiplayer":
+        {
+            "text" : "Multiplayer",			
+			"normalTextColor" : 13938487,
+			"hoverTextColor" : 13938487,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 80,
+            "posY" : -60,
+            "width" : 75,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+	    "alignment" : "left_center",
+	    "hoverText" : "Not Supported",
+
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+               
+		"options":
+        {
+            "text" : "Options",
+			"normalTextColor" : 13938487,
+			"hoverTextColor" : 13938487,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 78,
+            "posY" : -40,
+            "width" : 75,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+		        
+		"language":
+        {
+            "text" : "Language",
+	                "normalTextColor" : 13938487,
+			"hoverTextColor" : 13938487,
+	    		"texture" : "mainmenu:textures/btn.png",
+            "posX" : 78,
+            "posY" : -20,
+            "width" : 75,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,			
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+                    
+        "quit":
+        {
+            "text" : "Quit",
+			"normalTextColor" : 13938487,
+			"hoverTextColor" : 13938487,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 78,
+            "posY" : 30,
+            "width" : 75,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+			"hoverText" : "Chaos wins again!!",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		
+        "mods":
+        {
+            "text" : "Mods",
+			"normalTextColor" : 13938487,
+			"hoverTextColor" : 13938487,
+			"texture" : "mainmenu:textures/btn.png",
+            "posX" : 78,
+            "posY" : 50,
+            "width" : 75,
+            "height" : 20,
+			imageWidth : 100,
+			imageHeight : 50,
+			imageWidth : 100,
+			imageHeight : 50,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        }
+	},
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Forge #forgeversion# for Minecraft #mcversion# - Copyright Mojang AB. Do not distribute!",
+            "posX" : 200,
+            "posY" : 10,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        
+		"packTxt":
+        {
+            "text" : "Alpha!!",
+            "posX" : 200,
+            "posY" : 25,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+	
+	"alignments":
+    {
+        "c1":
+        {
+            "factorWidth" : 0.5,
+            "factorHeight" : 0.7
+        },
+ 
+        "c2":
+        {
+            "factorWidth" : 0.2,
+            "factorHeight" : 0.2
+        }
+    },
+         "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:background/bg.png",
+			"mode" : "stretch"
+		}
+    }
+}

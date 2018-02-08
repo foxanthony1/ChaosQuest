@@ -1,0 +1,5 @@
+particle largesmoke ~ ~ ~ 0 0 0 1 16000
+
+summon demonmobs:belph ~ ~ ~
+
+advancement revoke @p only triumph:cqadv/sleep

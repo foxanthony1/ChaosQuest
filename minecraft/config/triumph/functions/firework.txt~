@@ -1,0 +1,1 @@
+summon FireworksRocketEntity ~3 ~1 ~0 {LifeTime:20,Motion:[-0.30,-0.10,0.00],FireworksItem:{id:fireworks,Count:1,tag:{Fireworks:{Explosions:[{Type:4,Flicker:0,Trail:0,Colors:[16777215],FadeColors:[16777215]}]}}}}

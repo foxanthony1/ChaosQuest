@@ -1,0 +1,7 @@
+particle largesmoke ~15 ~15 ~1 0 0 0 1 16000
+
+summon arcticmobs:morock ~15 ~15 ~1
+
+title @a actionbar {"text":"You dare destroy one of my minions!", "color":"light_purple"}
+
+advancement revoke @p only triumph:cqadv/elytra

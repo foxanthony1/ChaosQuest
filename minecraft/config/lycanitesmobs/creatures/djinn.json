@@ -1,0 +1,93 @@
+{
+  "name": "djinn",
+  "class": "com.lycanitesmobs.elementalmobs.entity.EntityDjinn",
+  "loadDefault": true,
+  "enabled": true,
+  "spawning": {
+    "enabled": true,
+    "spawners": [],
+    "disableSubspecies": false,
+    "dimensionIds": [
+      -1,
+      1
+    ],
+    "dimensionListType": "blacklist",
+    "ignoreBiome": false,
+    "biomes": [],
+    "spawnWeight": 8,
+    "dungeonWeight": 200,
+    "spawnAreaLimit": 5,
+    "spawnGroupMin": 1,
+    "spawnGroupMax": 3,
+    "spawnsInLight": false,
+    "spawnsInDark": true,
+    "worldDayMin": -1,
+    "despawnNatural": true,
+    "despawnForced": false
+  },
+  "experience": 10,
+  "health": 15,
+  "defense": 0,
+  "speed": 24,
+  "damage": 1,
+  "haste": 1,
+  "effect": 1,
+  "pierce": 0,
+  "knockbackResistance": 0,
+  "followRange": 16,
+  "eggBackColor": "#b6bbc2",
+  "eggForeColor": "#f0f1f1",
+  "subspecies": [
+    {
+      "index": 1,
+      "name": "ashen",
+      "type": "uncommon"
+    },
+    {
+      "index": 2,
+      "name": "violet",
+      "type": "uncommon"
+    }
+  ],
+  "element": "air",
+  "peaceful": false,
+  "summonable": true,
+  "tameable": false,
+  "mountable": false,
+  "summonCost": 2,
+  "dungeonLevel": 1,
+  "drops": [
+    {
+      "item": "minecraft:feather",
+      "minAmount": 1,
+      "maxAmount": 4,
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:chorus_fruit",
+      "minAmount": 1,
+      "maxAmount": 4,
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:snowball",
+      "minAmount": 1,
+      "maxAmount": 8,
+      "chance": 1
+    },
+    {
+      "item": "elementalmobs:cleansingcrystal",
+      "minAmount": 1,
+      "maxAmount": 1,
+      "chance": 0.05
+    },
+    {
+      "item": "elementalmobs:whirlwindcharge",
+      "minAmount": 1,
+      "maxAmount": 1,
+      "chance": 0.05
+    }
+  ],
+  "sizeScale": 1,
+  "hitboxScale": 1
+}

@@ -1,0 +1,20 @@
+//Set icon item
+
+setIcon("minecraft:iron_sword")
+
+//Set title String
+setTitle("You can fly!!")
+
+setHidden(true)
+
+//Set description String
+setDescription("Kill a Wendigo to summon a Morock and earn your wings.")
+
+//Set the parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+setParent("triumph:cqadv/root")
+
+setRewardFunction("triumph:wendigo")
+
+criteria = addCriteria("killed_wendigo", "minecraft:player_killed_entity")
+
+criteria.setEntityType("arcticmobs:wendigo")

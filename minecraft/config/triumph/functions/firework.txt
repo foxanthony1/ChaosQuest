@@ -1,0 +1,1 @@
+summon minecraft:fireworks_rocket ~4 ~2 ~ {LifeTime:10,FireworksItem:{id:"minecraft:fireworks",Count:1b,tag:{Fireworks:{Explosions:[{Type:1b,Flicker:1b,Trail:0b,Colors:[I;16733525]}]}}}}

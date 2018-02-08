@@ -1,0 +1,9 @@
+title @a actionbar {"text":"You're not a coward, are you?", "color":"light_purple"}
+
+title @a times 20 200 20
+
+title @a subtitle {"text":"Will it be you?"}
+
+title @a title ["",{"text":"We need a Champion!","bold":true , "color":"yellow"}]
+
+function triumph:clearchat

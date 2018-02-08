@@ -1,0 +1,3 @@
+kill @e[type=illusion_illager]
+
+tellraw @p ["", ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"],{"text":"Excellent! ","color":"gold"},{"selector":"@p","color":"lime"},{"text":", I'll leave you with something to remember me by and a few tips: You have veinminer, a map, a magnet and the quests are in Better Advancements - Check your controls! Now, quick, go get some  gravel.","color":"gold"}]

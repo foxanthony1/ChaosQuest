@@ -1,0 +1,9 @@
+title @a times 20 200 20
+
+title @a actionbar {"text":"You're not a coward, are you?", "color":"light_purple"}
+
+title @a subtitle {"text":"If you can..."}
+
+title @a title ["",{"text":"Defeat the Chaos Dragon!","bold":true , "color":"yellow"}]
+
+function triumph:clearchat
