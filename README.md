@@ -1,7 +1,7 @@
 # ChaosQuest
 It's an adventure!
 
-The world of Lore is threatened! The delicate balance between Order and Chaos has been disrupted. At night a fell darkness befalls the land and hordes of monsters appear seeking death and destruction.
+The world of Lore is threatened! The delicate balance between Order and Chaos has been disrupted. At night a fell darkness befalls the land and hordes of monsters appear, seeking death and destruction.
 
 Some are even adapting to the daylight...
 
